@@ -42,5 +42,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "overrides": {
+    "rollup@<=3.29.5": "3.29.5",
+    "undici@<=6.15.0": "6.15.0",
+    "webpack@<=5.94.0": "5.94.0"
   }
 }
